@@ -1,0 +1,32 @@
+Alert 
+    { 
+        font-size:14;
+        color : #0b333c; 
+        header-height:19; 
+        border-thickness: 1; 
+        drop-shadow-enabled: true; 
+        drop-shadow-color :#089A5E; 
+        background-color: #ffffff; 
+        corner-radius :0; 
+        border-style :solid; 
+        header-colors : #089A5E, #09e389; 
+        footer-colors : #089A5E, #09e389; 
+        border-color : #696969;
+         
+        title-style-name : "alertTitle"; 
+        button-style-name: "alertButton"; 
+    } 
+ 
+    .alertTitle 
+    { 
+        font-family :Verdana; 
+        font-size :10; 
+        font-weight :bold; 
+        text-align :left; 
+        color :#ffffff; 
+    } 
+     
+    .alertButton 
+    {           
+        theme-color: #696969;           
+    }

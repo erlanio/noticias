@@ -1,0 +1,1 @@
+[03-Aug-2017 06:24:57 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::session_destroy() in /home/edson429/public_html/news/application/controllers/admin/Login.php on line 45
